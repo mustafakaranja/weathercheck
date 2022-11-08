@@ -1,0 +1,14 @@
+.menu-item-header {
+  font-size: 25px;
+  font-weight: 300;
+  text-decoration: none;
+}
+
+.menu-item-header:hover {
+  font-weight: 700;
+  color: var(--bs-nav-link-color) !important;
+}
+
+.nav-link:hover {
+  color: var(--bs-nav-link-hover-color) !important;
+}
